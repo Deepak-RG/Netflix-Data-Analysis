@@ -50,7 +50,7 @@ Bar chart showing most popular genres
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - Movies dominate Netflix content  
 - United States produces the highest number of titles  
 - Significant growth in content after 2015  
