@@ -58,4 +58,3 @@ Bar chart showing most popular genres
 - Drama and International genres are most common  
 
 ---
-## 📁 Project St
